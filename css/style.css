@@ -1,3 +1,15 @@
+
+.image-logo{
+  height: 60px;
+  width: 60px;
+}
+
+.graykey{
+  height: 50%;
+  width: 70%;
+background-color: black;
+}
+
 .bg-yellow{
   background-color: yellowgreen;
 }
