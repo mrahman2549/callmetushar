@@ -9,27 +9,16 @@ body {
   font-family: 'Work Sans', sans-serif;
 }
 
-/* h1{
-  font-family: 'Bad Script', cursive;
-} */
+
 
 h1{
   font-family: 'Bad Script', cursive;
 
-
-
-
-/* font-family: 'Charmonman', cursive; */
 }
 
 h5,h3{
   font-family: 'Poiret One', cursive;
-  /* font-family: 'Caveat', cursive; */
-/* font-family: 'Dancing Script', cursive; */
-/* font-family: 'Indie Flower', cursive; */
-/* font-family: 'Cookie', cursive; */
-/* font-family: 'Sacramento', cursive; */
-/* font-family: 'Bad Script', cursive; */
+
 }
 
 h1,
@@ -39,11 +28,6 @@ h4,
 h5,
 h6 {
   color: #1e1e1e;
-  
-/* font-family: 'Dancing Script', cursive; */
-
-
-
 
 }
 
